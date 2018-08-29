@@ -1,7 +1,7 @@
 # equiVolve
 For IO and toy codes to handle Equinor's Open Domain Volve Dataset
 
-To download large data files from https://data-equinor-com.azurewebsites.net/dataset/volve, save download_file.py into the directory in which you want to store your data. Then in a terminal window, run the following command within that directory :
+To download large data files from https://data-equinor-com.azurewebsites.net/dataset/volve, save <i>download_file.py</i> into the directory in which you want to store your data. Then in a terminal window, run the following command within that directory :
 
 <b>python download_file.py</b> 
 
